@@ -2,6 +2,6 @@
 
 echo "Meu primeiro codigo php! <strong>	Ola mundo <strong>";
 
-echo "ola udmy !";
+echo "Ola udmy e ola hcode!";
 
 ?>
